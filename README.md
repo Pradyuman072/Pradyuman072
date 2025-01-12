@@ -45,7 +45,7 @@ Feel free to explore my repositories for more projects!
 I'm always open to discussing new projects, collaborations, or opportunities. You can reach me at:
 
 - Email: [pradyumanshimla@gmail.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pradyuman-sharma-273a8531a/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pradyuman-sharma-273a8531a/)
 
 
 ---
