@@ -1,5 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-# Hello Fellow Developers
+
+## Hello Fellow Developers
 
 Welcome to my GitHub profile! I'm Pradyuman Sharma, a passionate Full Stack Developer with a strong foundation in modern web technologies. I specialize in building dynamic and responsive web applications using a variety of frameworks and languages.
 
